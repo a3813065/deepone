@@ -1,4 +1,4 @@
-# deepone帳號生產機  掏寶初始號生產器
+# deepone帳號生產機  FANZA遊戲淘寶初始號生產器
 代碼除了import全自編   個人寫不出如playwright般  跨C++javascript C# 低層級語言模塊
 10日項目   初次嘗試破解  網頁遊戲 
 期間數次嘗試SQL進攻各大台灣政府網站  全失敗
